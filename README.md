@@ -20,7 +20,7 @@ Cordova plugin that allows camera interaction from HTML cod for showing camera p
 <p><b>Installation:</b></p>
 
 ```
-cordova plugin add https://github.com/cordova-plugin-camera-preview/cordova-plugin-camera-preview.git
+cordova plugin add https://github.com/fjcunha/proimobiApp-plugin-cameraPreview
 ```
 
 <b>Phonegap Build:</b><br/>
@@ -105,9 +105,5 @@ Use the cordova-file in order to read the picture file and them get the base64.<
 Please, refer to this documentation: http://docs.phonegap.com/en/edge/cordova_file_file.md.html<br/>
 Method <i>readAsDataURL</i>: Read file and return data as a base64-encoded data URL.
 
-<b>Sample:</b><br/>
-Please see the <a href="https://github.com/mbppower/CordovaCameraPreviewApp">CordovaCameraPreviewApp</a> for a complete working example for Android and iOS platforms.
 
-<p><b>Android Screenshots:</b></p>
-<p><img src="https://raw.githubusercontent.com/mbppower/CordovaCameraPreview/master/docs/img/android-1.png"/></p>
-<p><img src="https://raw.githubusercontent.com/mbppower/CordovaCameraPreview/master/docs/img/android-2.png"/></p>
+
